@@ -1,4 +1,4 @@
-## Hotel Occupancy Forecasting using LSTM (Time Series, TensorFlow)
+## **Hotel Occupancy Forecasting using LSTM (Time Series, TensorFlow)**
 
 This project is developed to **forecast hotel occupancy rates** based on historical occupancy data. This model, which works on time series data, is built using a deep learning-based **LSTM (Long Short-Term Memory)** architecture.
 
